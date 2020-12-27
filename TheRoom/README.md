@@ -15,9 +15,9 @@
 
 # Debug:
 
- Nhập một chuỗi bất kì, và enter.
  ![2020-12-27-16-14-56-image](https://user-images.githubusercontent.com/51186443/103168242-10c1d500-4864-11eb-8633-0c02c4d0c1c2.png)
-
+ 
+ Nhập một chuỗi bất kì, và enter.
  Chương trình sẽ dừng lại tại nơi mà tôi đã đặt breakpoint trước. Và tôi có thể thấy được biến **Temp** đã có giá trị : "Y0u_F0und_Fl4G_!_0xda6vr81o9"
  ![2020-12-27-16-16-36-image](https://user-images.githubusercontent.com/51186443/103168244-115a6b80-4864-11eb-945b-5f61f0e10b34.png)
 
