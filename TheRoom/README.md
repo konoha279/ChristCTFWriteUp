@@ -20,8 +20,8 @@
  Nhập một chuỗi bất kì, và enter.
  Chương trình sẽ dừng lại tại nơi mà tôi đã đặt breakpoint trước. Và tôi có thể thấy được biến **Temp** đã có giá trị : "Y0u_F0und_Fl4G_!_0xda6vr81o9"
  ![2020-12-27-16-16-36-image](https://user-images.githubusercontent.com/51186443/103168244-115a6b80-4864-11eb-945b-5f61f0e10b34.png)
+ ![2020-12-27-16-19-38-image](https://user-images.githubusercontent.com/51186443/103168246-11f30200-4864-11eb-9fe8-1d84d244bdb0.png)
 
  Vậy ta đã có được mật khẩu để vào được căn phòng. Nhưng như ta phân tích được từ đầu thì flag chính là:
- ![2020-12-27-16-19-38-image](https://user-images.githubusercontent.com/51186443/103168246-11f30200-4864-11eb-9fe8-1d84d244bdb0.png)
- 
+
  => **ChristCTF{Y0u_F0und_Fl4G_!_0xda6vr81o9}**
