@@ -23,4 +23,5 @@
 
  Vậy ta đã có được mật khẩu để vào được căn phòng. Nhưng như ta phân tích được từ đầu thì flag chính là:
  ![2020-12-27-16-19-38-image](https://user-images.githubusercontent.com/51186443/103168246-11f30200-4864-11eb-9fe8-1d84d244bdb0.png)
+ 
  => **ChristCTF{Y0u_F0und_Fl4G_!_0xda6vr81o9}**
